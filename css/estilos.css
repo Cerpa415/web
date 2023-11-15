@@ -1,0 +1,43 @@
+main div a:hover{
+    text-decoration-line: underline;
+    color: gray;
+}
+
+footer div a{
+   color: white;
+}
+
+footer div a:hover{
+  text-decoration: solid;
+  color: #263238;
+}
+
+.bordes{
+    border:1px solid black;
+}
+
+img{
+  object-fit: cover;
+  width: 100%;  
+}
+
+.espatop{
+    margin-top:40px;
+}
+
+.espabot{
+    margin-bottom:40px ;
+}
+
+.espalef{
+    margin-left: 40px;
+}
+
+.esparig{
+  margin-right: 40px;
+}
+
+a{
+ color: #757575;
+}
+
